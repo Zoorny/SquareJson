@@ -1,0 +1,4 @@
+
+.table tr:nth-child(odd) {background: #def}
+.table tr:nth-child(even) {background: #fff}
+
